@@ -1,0 +1,32 @@
+aid: roboflow-universe
+name: Roboflow Universe
+description: "Pre-trained computer vision models"
+url: https://universe.roboflow.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: Roboflow Universe
+    description: "Pre-trained computer vision models"
+    humanURL: https://universe.roboflow.com
+    baseURL: https://universe.roboflow.com
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://universe.roboflow.com
+common:
+  - type: Website
+    url: https://universe.roboflow.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
