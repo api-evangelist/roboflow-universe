@@ -64,3 +64,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-parent: roboflow
+x-relationship: product
